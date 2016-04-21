@@ -1,8 +1,13 @@
 baseurl = "http://immigrantsheep.github.io"
 languageCode = "en-us"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
 title = "immigrant sheep of doom"
 author = "immigrantsheep"
 copyright = "immigrantsheep All rights reserved."
+indexes:
+  category: "categories"
 canonifyurls: true
 
 [params]
