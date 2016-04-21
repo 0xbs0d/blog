@@ -1,0 +1,9 @@
+baseurl = "http://immigrantsheep.github.io"
+languageCode = "en-us"
+title = "immigrant sheep of doom"
+author = "immigrantsheep"
+copyright = "immigrantsheep All rights reserved."
+
+[params]
+  twitter = "https://twitter.com/immigrantsheepa"
+  github  = "https://github.com/immigrantsheep/" 

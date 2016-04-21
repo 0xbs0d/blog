@@ -1,0 +1,9 @@
+{
+  "_aerobatic": {
+      "build": {
+              "engine": "hugo",
+                    "themeRepo": "https://github.com/halogenica/Hugo-BeautifulHugo.git"
+                }
+              }
+}
+
