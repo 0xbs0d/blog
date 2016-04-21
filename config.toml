@@ -1,15 +1,8 @@
-baseurl = "http://immigrantsheep.github.io"
-languageCode = "en-us"
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
 title = "immigrant sheep of doom"
 author = "immigrantsheep"
 copyright = "immigrantsheep All rights reserved."
-indexes:
-  category: "categories"
-canonifyurls: true
-
-[params]
-  twitter = "https://twitter.com/immigrantsheepa"
-  github  = "https://github.com/immigrantsheep/" 
+canonifyurls = true
+baseurl = "http://immigrantsheep.github.io"
